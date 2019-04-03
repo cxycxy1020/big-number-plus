@@ -1,0 +1,5 @@
+﻿  源.cpp
+c:\users\administrator\source\repos\big number plus\big number plus\源.cpp(7): warning C4326: “main”的返回类型应为“int”而非“void”
+c:\users\administrator\source\repos\big number plus\big number plus\源.cpp(20): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\big number plus\big number plus\源.cpp(50): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  big number plus.vcxproj -> C:\Users\Administrator\source\repos\big number plus\x64\Debug\big number plus.exe
